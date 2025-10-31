@@ -1,2 +1,2 @@
-# fortran.github.io
-A place to promote Fortran.
+# FortranFuture
+A place to promote Fortran and its future.

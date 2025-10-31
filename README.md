@@ -1,5 +1,12 @@
 ## Overview
 
+If you use electricity, fly in aircraft, take medication, eat food grown under the weather, or are defended by (the threat of) modern weapons, you depend on Fortran.  Fortran is essential to the sciences - e.g., Earth sciences, materials science, physics, chemistry - which underpins these, and many other, activities. This raises a **significant risk**: if we don't sustain the Fortran code that encodes such science, we can’t sustain or further advance that science. The consequence is that these sciences will decline, both in terms of advancing knowledge and in terms of their ability to continue to contribute positively to society, the economy and the environment. The UK, as one example, risks losing its world-leading position in a range of fundamental and applied sciences.
+
+> How do we sustain sciences currently dependent on Fortran so that they continue to advance knowledge – and contribute to society, the economy and the environment – for the next 70 years?
+
+
+## Background
+
 Fortran codebases have a long and distinguished history of contributing to world-class science and engineering. It is both the oldest third-generation programming language in active use and development today, and the only standardised language with a native parallel programming model ([Curcic, 2020](https://learning.oreilly.com/library/view/modern-fortran/9781617295287/)). Fortran codebases remain crucial for many current scientific disciplines (see Tables 1 and 2 for examples of research areas that have benefitted from Fortran codebases), and are mission-critical for some of the most significant national and international institutions and initiatives. Fortran has, therefore, over the last 70 years, made an immense and sustained contribution to science. And, in turn, that science has made, and continues to make, an enormous contribution to society, the economy and the environment. As one illustrative example: when the UK's Met Office warns of severe weather disruptions to travel and logistics it does so on the basis of 2M lines of Fortran code. Overall, since its inception in the mid-1950s, Fortran has had an remarkable (albeit indirect and hidden) impact on society, the economy and the environment. 
 
 Received wisdom says that Fortran is an old and therefore obsolete language [1]. But there continues to be a very wide range of sciences that actively depend on Fortran codebases. This includes 6 of the top 10 codebases running on the UK's Archer2 HPC service [33 - 38]. (Also, Beliavsky actively maintains a list of several hundred Fortran codebases [39] and tools [40] on GitHub.)
@@ -8,25 +15,6 @@ Many scientific Fortran codebases are very large and are used by many others. As
 
 New technologies are being developed in Fortran. For example, Rouson and his CLaSS group at Lawrence Berkley National Lab (LBNL) are developing a deep learning library ([Fiats](https://github.com/berkeleylab/fiats)) written entirely in Fortran, as well as a parallel runtime library ([Caffeine](https://github.com/berkeleylab/caffeine), part Fortran).
 
-### References
-
-[1] S. Matsuoka, et al., 'Myths and legends in high-performance computing', Int. J. High Perform. Comput. Appl., vol. 37, no. 3-4, pp. 245-259, Jul. 2023, doi: 10.1177/10943420231166608.
-
-[33] [Vienna Ab initio Simulation Package (VASP)](https://www.vasp.at/)
-
-[34] [CASTEP](https://www.castep.org/); see also [here](https://castep-docs.github.io/castep-docs/)
-
-[35] [SENGA+](https://www.ukctrf.com/index.php/senga/)
-
-[36] [CP2K Open Source Molecular Dynamics](https://www.cp2k.org/)
-
-[37] [NEMO Community Ocean Model](https://github.com/NEMO-ocean)
-
-[38] [Met Office Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)
-
-[39] [Fortran (scientific) codes](https://github.com/Beliavsky/Fortran-code-on-GitHub)
-
-[40] [Fortran tools](https://github.com/Beliavsky/Fortran-Tools)
 
 ## Promising developments
 
@@ -78,6 +66,26 @@ _Table 2._ Indicative research areas aligned with FortranFuture. (**TODO**: to b
 |                                                      | Clean energy                                    | [Culham Centre for Fusion Energy](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) | [ITER](https://www.iter.org)                                                                                                                      |
 |                                                      | Weather forecasting                             | [MET-office](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)              | [ECMWF](https://www.ecmwf.int)                                                                                                                    |
 
-## Other sources of examples
+### References
+
+[1] S. Matsuoka, et al., 'Myths and legends in high-performance computing', Int. J. High Perform. Comput. Appl., vol. 37, no. 3-4, pp. 245-259, Jul. 2023, doi: 10.1177/10943420231166608.
+
+[33] [Vienna Ab initio Simulation Package (VASP)](https://www.vasp.at/)
+
+[34] [CASTEP](https://www.castep.org/); see also [here](https://castep-docs.github.io/castep-docs/)
+
+[35] [SENGA+](https://www.ukctrf.com/index.php/senga/)
+
+[36] [CP2K Open Source Molecular Dynamics](https://www.cp2k.org/)
+
+[37] [NEMO Community Ocean Model](https://github.com/NEMO-ocean)
+
+[38] [Met Office Unified Model](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)
+
+[39] [Fortran (scientific) codes](https://github.com/Beliavsky/Fortran-code-on-GitHub)
+
+[40] [Fortran tools](https://github.com/Beliavsky/Fortran-Tools)
+
+### Other sources of examples
 
 Beliavksy maintains an index of [Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub).

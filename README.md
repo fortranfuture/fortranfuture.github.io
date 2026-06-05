@@ -108,4 +108,4 @@ _Table 2._ Indicative research areas aligned with FortranFuture. (**TODO**: to b
 
 ### Other sources of examples
 
-Beliavksy maintains an index of [Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub).
+Beliavsky maintains an index of [Fortran code on GitHub](https://github.com/Beliavsky/Fortran-code-on-GitHub).

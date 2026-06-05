@@ -4,7 +4,7 @@ FortranFuture is a 3-year, £2M project funded by the UK's Engineering and Physi
 
 > How do we sustain sciences currently dependent on Fortran so that they continue to advance knowledge – and contribute to society, the economy and the environment – for the next 70 years?
 
-FortranFuture is a collaboration between Queen's University Belfast (QUB, Northern Ireland) and University of Southampton (UoS, England). The co-investigators are: Prof. Austen Rainer (Lead, QUB), Dr Andrew Brown (co-lead, QUB), Dr Rebecca Taylor (UoS) and Prof. Simon Hettrick (UoS). The co-investigators are supported by an international Accountability and Advisory Board (AAB). The project also has over 25 partner institutions.
+FortranFuture is a collaboration between Queen's University Belfast (QUB, Northern Ireland) and University of Southampton (UoS, England). The project will formally start on 1 September 2026 with an official launch at a satellite event to the UK's Research Software Engineering Conference (RSECon26) The co-investigators are: Prof. Austen Rainer (Lead, QUB), Dr Andrew Brown (co-lead, QUB), Dr Rebecca Taylor (UoS) and Prof. Simon Hettrick (UoS). The co-investigators are supported by an international Accountability and Advisory Board (AAB). The project also has over 25 partner institutions.
 
 If we don't sustain the Fortran codebases that encode the science, we can’t sustain or further advance that science. The consequence is that these sciences will stall or decline, both in terms of advancing knowledge and in terms of their ability to continue to contribute to society, the economy and the environment.
 

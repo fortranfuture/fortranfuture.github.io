@@ -1,4 +1,8 @@
+lsi: false
 theme: jekyll-theme-cayman
 title: FortranFuture Network+
 description: A 3-year, £2M project funded by the UK's Engineering and Physical Sciences Research Council (EPSRC; UKRI4343)
-markdown: GFM
+markdown_ext : "markdown,mkdown,mkdn,mkd,md"
+markdown : kramdown
+  input : GFM
+# markdown: GFM

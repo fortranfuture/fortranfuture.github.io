@@ -66,7 +66,9 @@ _Table 1._ Indicative research areas aligned with this programme.
 |                                                      | Clean energy                                    | [Culham Centre for Fusion Energy](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) | [ITER](https://www.iter.org)                                                                                                                      |
 |                                                      | Weather forecasting                             | [MET-office](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)              | [ECMWF](https://www.ecmwf.int)                                                                                                                    |
 
-[powered by Fortran](community-assets/poweredbyfortran.md)
+## "powered by Fortran"
+
+A brief rationale on the use of ["powered by Fortran"](community-assets/poweredbyfortran.md).
 
 ### References
 

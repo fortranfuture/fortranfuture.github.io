@@ -66,6 +66,8 @@ _Table 1._ Indicative research areas aligned with this programme.
 |                                                      | Clean energy                                    | [Culham Centre for Fusion Energy](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) | [ITER](https://www.iter.org)                                                                                                                      |
 |                                                      | Weather forecasting                             | [MET-office](https://www.metoffice.gov.uk/research/approach/modelling-systems/unified-model)              | [ECMWF](https://www.ecmwf.int)                                                                                                                    |
 
+[powered by Fortran](community-assets/poweredbyfortran.md)
+
 ### References
 
 [1] Matsuoka, S., et al., 'Myths and legends in high-performance computing', Int. J. High Perform. Comput. Appl., vol. 37, no. 3-4, pp. 245-259, Jul. 2023, doi: [10.1177/10943420231166608](https://journals.sagepub.com/doi/10.1177/10943420231166608).
